@@ -5,4 +5,4 @@
 
 ## 공부일지
 
-- [230915 - git](https://github.com/LDHIUM/_TIL_/blob/main/git/230915-git_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+- 230915 - git

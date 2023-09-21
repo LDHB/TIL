@@ -9,3 +9,4 @@
 - 230918 - Git
 - 230919 - Machine Learning
 - 230920 - Machine Learning
+- 230921 - Machine Learning
